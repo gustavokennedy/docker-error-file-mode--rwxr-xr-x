@@ -2,4 +2,4 @@
 
 After many tests, updating files, changing settings and no solution to the problem.
 
-To resolve this, I just updated Docker Desktop.
+To resolve this, I just `updated Docker Desktop`.
