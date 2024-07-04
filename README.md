@@ -2,4 +2,8 @@
 
 After many tests, updating files, changing settings and no solution to the problem.
 
-To resolve this, I just `updated Docker Desktop`.
+Some alternatives:
+
+1. Disable WSL on Windows
+2. Disable Windows WSL and change the project folder (if using $user/OneDrive/Desktop)
+3. Updated the version of Docker`.
